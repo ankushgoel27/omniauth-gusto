@@ -14,7 +14,7 @@ gem 'omniauth-gusto'
 
 And then execute:
 
-    $ bundle
+    $ bundle test
 
 Or install it yourself as:
 
